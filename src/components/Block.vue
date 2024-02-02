@@ -1,8 +1,12 @@
 <template >
 
-    <div ref="boxRef"  class="box" @click="stopTimer" :class="{green:turnColor}">
-        Once green Click Here! Be ready. 
+<div class="container">
+    <div class="row">   
+        <div ref="boxRef"  class="box" @click="stopTimer" :class="{green:turnColor}">
+            Once green Click Here! Be ready. 
+        </div>
     </div>
+</div>
 </template>
 
 <script>
