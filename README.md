@@ -1,5 +1,5 @@
 # reaction-game
-
+  to have a look at the website: https://small-reaction-game-vue-js.vercel.app
 ## Project setup
 ```
 npm install
